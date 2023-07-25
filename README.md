@@ -123,10 +123,20 @@
 <table>
     <theader>
         <tr>
+         <th style="text-align:center">REFERENCIAS Y BIBLIOGRAFÍA</th>
         </tr>
     </theader>
     <tbody>
         <tr>
+        <td>
+                https://www.django-rest-framework.org/
+https://www.django-rest-framework.org/tutorial/quickstart/
+https://www.django-rest-framework.org/tutorial/1-serialization/
+https://www.django-rest-framework.org/tutorial/3-class-based-views/
+https://www.django-rest-framework.org/api-guide/authentication/
+https://www.bezkoder.com/django-rest-api/
+https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to
+            </td>
         </tr>
     </tbody>
 </table>
