@@ -72,7 +72,7 @@
                 <li>
                     Proyecto: Lista de Tareas
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_08_PWEB2/tree/main/listaDetareas">https://github.com/GonzaloRail/Laboratorio_08_PWEB2/tree/main/listaDetareas</a>
-                    Menu
+                    <li>Menu</li>
                     <img src="./img/menu.png">
                     Detalle de la Tarea
                     <img src="./img/detalleTarea.png">
