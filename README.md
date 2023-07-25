@@ -93,8 +93,6 @@
                     <img src="./img/serializers.png">
                     Urls.py--- Vemos las urls y podremos movernos de pagina en pagina
                     <img src="./img/urls.png">
-
-
                 </li>
                 <li>
                     Proyecto: Tutorial
