@@ -1,9 +1,9 @@
 from django.db import models
 
-class Listas(models.Model):
-    titulo = models.CharField(max_length=200)
-    descripcion = models.TextField(blank=True)
-    completado = models.BooleanField(default=False)
+class Lista(models.Model):
+    title = models.CharField(max_length=200)
+    description = models.TextField(blank=True)
+    completed = models.BooleanField(default=False)
 
     def __str__(self):
-        return self.titulo
+        return self.title
