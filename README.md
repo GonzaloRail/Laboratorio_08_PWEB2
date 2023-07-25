@@ -74,34 +74,34 @@
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_08_PWEB2/tree/main/listaDetareas">https://github.com/GonzaloRail/Laboratorio_08_PWEB2/tree/main/listaDetareas</a>
                     <li>Menu</li>
                     <img src="./img/menu.png">
-                    Detalle de la Tarea
+                    <li>Detalle de las listas</li>
                     <img src="./img/detalleTarea.png">
-                    Create
+                    <li>Create</li>
                     <img src="./img/ListaTareas.png">
-                    Read
+                    <li>Read</li>
                     <img src="./img/menuRelleno.png">
-                    Update
+                    <li>Update</li>
                     <img src="./img/update.png">
-                    Delete
+                    <li>Delete</li>
                     <img src="./img/delete.png"> 
-                    Demostracion de Codigo<br>
-                    Models.py--- Se crea la base de datos, ingresando su parametros
+                    <li>Demostracion del codigo</li><br>
+                    <li>Models.py--- Se crea la base de datos, ingresando su parametros</li>
                     <img src="./img/models.png">
-                    Views.py--- Se crea views para la funcionalidad, para ver la lista y ver detalladamente la lista
+                    <li>Views.py--- Se crea views para la funcionalidad, para ver la lista y ver detalladamente la lista</li>
                     <img src="./img/views.png">
-                    Serializers.py
+                    <li>Serializers.py</li>
                     <img src="./img/serializers.png">
-                    Urls.py--- Vemos las urls y podremos movernos de pagina en pagina
+                    <li>Urls.py--- Vemos las urls y podremos movernos de pagina en pagina</li>
                     <img src="./img/urls.png">
                 </li>
                 <li>
-                    Proyecto: Tutorial
+                    <li>Proyecto: Tutorial</li>
                     Solucion: <a href="https://github.com/GonzaloRail/Laboratorio_08_PWEB2/tree/main/tutorial/tutorial">https://github.com/GonzaloRail/Laboratorio_08_PWEB2/tree/main/tutorial/tutorial</a>
-                    Tutorial
+                    <li>tutorial</li>
                     <img src="./img/tutorial.png">
                 </li>
                 <li>
-                    <br>Commits: <br>
+                    <li>Commits</li>
                     <img src="./img/comints.png">
                 </li>
                 </li>
@@ -124,6 +124,8 @@
     <tbody>
         <tr>
             <td>
+            <li>Rubrica</li>
+            <img src="./img/rubrica.png">
             </td>
         </tr>
     </tbody>
@@ -138,13 +140,13 @@
     <tbody>
         <tr>
         <td>
-                https://www.django-rest-framework.org/
-https://www.django-rest-framework.org/tutorial/quickstart/
-https://www.django-rest-framework.org/tutorial/1-serialization/
-https://www.django-rest-framework.org/tutorial/3-class-based-views/
-https://www.django-rest-framework.org/api-guide/authentication/
-https://www.bezkoder.com/django-rest-api/
-https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to
+                <li>https://www.django-rest-framework.org/</li>
+                <li>https://www.django-rest-framework.org/tutorial/quickstart/</li>
+                <li>https://www.django-rest-framework.org/tutorial/1-serialization/</li>
+                <li>https://www.django-rest-framework.org/tutorial/3-class-based-views/</li>
+                <li>https://www.django-rest-framework.org/api-guide/authentication/</li>
+                <li>https://www.bezkoder.com/django-rest-api/</li>
+                <li>https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to</li>
             </td>
         </tr>
     </tbody>
