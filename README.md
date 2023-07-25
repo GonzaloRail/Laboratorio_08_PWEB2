@@ -92,8 +92,8 @@
                     <img src="./img/tutorial.png">
                 </li>
                 <li>
-                    Commits: <br>
-                    <img src="./img/comits.png">
+                    <br>Commits: <br>
+                    <img src="./img/comints.png">
                 </li>
                 </li>
             </ul>
