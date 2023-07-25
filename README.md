@@ -115,6 +115,21 @@
         </tr>
     </tbody>
 </table>
+<table>
+    <theader>
+        <tr>
+         <th style="text-align:center">PREGUNTA</th>
+        </tr>
+    </theader>
+    <tbody>
+        <tr>
+        <td>
+                <li>¿Cual fue la mayor dificultad del uso de este framework?.</li><br>
+                Al principio, puede ser abrumador configurar correctamente Django REST framework, especialmente para aquellos que son nuevos en el desarrollo de API REST. Configurar las vistas, serializadores, autenticación, permisos y enrutamiento puede llevar tiempo y requerir un entendimiento sólido de cómo funciona cada componente.
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <table>
     <theader>
