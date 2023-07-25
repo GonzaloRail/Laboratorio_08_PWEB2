@@ -84,6 +84,17 @@
                     <img src="./img/update.png">
                     Delete
                     <img src="./img/delete.png"> 
+                    Demostracion de Codigo<br>
+                    Models.py--- Se crea la base de datos, ingresando su parametros
+                    <img src="./img/models.png">
+                    Views.py--- Se crea views para la funcionalidad, para ver la lista y ver detalladamente la lista
+                    <img src="./img/views.png">
+                    Serializers.py
+                    <img src="./img/serializers.png">
+                    Urls.py--- Vemos las urls y podremos movernos de pagina en pagina
+                    <img src="./img/urls.png">
+
+
                 </li>
                 <li>
                     Proyecto: Tutorial
