@@ -31,7 +31,7 @@
         <td>ASIGNATURA:</td><td colspan="5">Laboratorio de Programación Web 2 - Grupo "B"</td>
     </tr>
     <tr>
-        <td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Laboratorio 7</td>
+        <td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Laboratorio 8</td>
     </tr>
     <tr>
         <td>NÚMERO DE PRÁCTICA:</td><td>08</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
