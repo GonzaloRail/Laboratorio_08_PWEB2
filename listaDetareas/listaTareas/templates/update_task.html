@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Update Task</title>
+    <title>Actualizar Tarea</title>
 </head>
 <body>
-    <h1>Update Task</h1>
+    <h1>Actualizar Tarea</h1>
     <form method="post">
         {% csrf_token %}
-        <label for="title">Title:</label>
+        <label for="title">Titulo:</label>
         <input type="text" name="title" id="title" value="{{ task.title }}" required><br>
-        <label for="description">Description:</label>
+        <label for="description">Descripcion:</label>
         <textarea name="description" id="description">{{ task.description }}</textarea><br>
-        <input type="checkbox" name="completed" {% if task.completed %}checked{% endif %}> Completed<br>
-        <input type="submit" value="Update">
+        <input type="checkbox" name="completed" {% if task.completed %}checked{% endif %}> Completado<br>
+        <input type="submit" value="Actualizar">
     </form>
-    <a href="{% url 'task_list' %}">Back to Task List</a>
+    <a href="{% url 'task_list' %}">Volver a la Lista de Tareas</a>
 </body>
 </html>

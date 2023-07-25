@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Delete Task</title>
+    <title>Eliminar Lista</title>
 </head>
 <body>
-    <h1>Delete Task</h1>
-    <p>Are you sure you want to delete "{{ task.title }}"?</p>
+    <h1>Eliminar Lista</h1>
+    <p>¿Seguro que quieres eliminar? "{{ task.title }}"</p>
     <form method="post">
         {% csrf_token %}
-        <input type="submit" value="Delete">
+        <input type="submit" value="Eliminar">
     </form>
-    <a href="{% url 'task_list' %}">Cancel</a>
+    <a href="{% url 'task_list' %}">Cancelar</a>
 </body>
 </html>
