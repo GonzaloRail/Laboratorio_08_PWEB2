@@ -1,5 +1,5 @@
 from django.shortcuts import render, get_object_or_404, redirect
-from .models import Task
+from .models import Lista
 
 def task_list(request):
     tasks = Task.objects.all()
